@@ -8,7 +8,7 @@ The paper proposes a structured approach for translating statistical model evalu
 
 Artificial intelligence is increasingly used in financial services, including credit scoring, portfolio management, fraud detection, insurance underwriting, and risk forecasting. While AI models may improve predictive performance, they also introduce risks related to robustness, accuracy, fairness, and explainability.
 
-This paper builds on the KAIRI-SAFE framework and studies how AI-related risks can be integrated into traditional financial model risk management processes.
+This paper builds on and extend the KAIRI-SAFE framework proposed by Bracke et al. (2024) and studies how AI-related risks can be integrated into traditional financial model risk management processes.
 
 The paper covers:
 
